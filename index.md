@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Hi this is my awesome website of awesomeness. This is some plain text that will be rendered on the home page of the website. 
